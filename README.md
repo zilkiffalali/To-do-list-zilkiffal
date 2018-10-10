@@ -1,13 +1,12 @@
 # to-do-list-zilkiffal WHO AM I
  <h2> hobbies </h1>
- - [] gaming
- - [] clarinet
- - [] listening to music (no porefered genre)
- - [] cooking
+ - [x] gaming
+ - [x] clarinet
+ - [In progress] cooking
  <h2> Heritage </h2>
   - [] Languages (urdu,arabic,french and english)
  - [] Islamic beliefs
- - [] Pakistan (flag and anthem)
+ - [x] Pakistan (flag and anthem)
  - [] Pakistani bloodline
  <h2> How Cananda shaped me </h2>
   - [] food wise (mary browns,mcdonalds and poutines)
